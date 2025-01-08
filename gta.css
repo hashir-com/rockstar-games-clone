@@ -26,11 +26,11 @@ body{
     height: var(--global-navigation-height);
     opacity: 1;
     position: relative;
-    top: 0;
+    top: 0px;
     transition: top .3s ease-in-out;
     width: 1855.200px;
     z-index: 99;
-    border-bottom: 2.8px solid rgb(40, 40, 40);
+    border-bottom: 0.8px solid rgb(40, 40, 40);
 }
 .logo-box{
     flex: 386.413px;
@@ -317,7 +317,7 @@ body{
 .whole-div{
 
     position:relative;
-    top: 80px;
+    top: 0px;
     display: grid;
     grid-template-rows: 742.65px 2fr;
     height: 4078.49px;
@@ -705,7 +705,7 @@ width: 125.76px
     mask-image: radial-gradient(75% 60% at 50% 50%, #f30000,transparent);
     opacity: .4;
     position: relative;
-    top: 80px;
+    top: 0px;
     background-origin: padding-box;
     background-repeat: repeat;
     color:#fff;
