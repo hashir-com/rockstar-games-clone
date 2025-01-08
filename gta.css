@@ -30,7 +30,7 @@ body{
     transition: top .3s ease-in-out;
     width: 1855.200px;
     z-index: 99;
-    border-bottom: 0.8px solid rgb(40, 40, 40);
+    border-bottom: 2.8px solid rgb(40, 40, 40);
 }
 .logo-box{
     flex: 386.413px;
