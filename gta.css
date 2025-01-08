@@ -25,7 +25,7 @@ body{
     display: flex;
     height: var(--global-navigation-height);
     opacity: 1;
-    position: fixed;
+    position: relative;
     top: 0;
     transition: top .3s ease-in-out;
     width: 1855.200px;
